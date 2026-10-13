@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# your real vault and its copies - never upload these
+vault.json
+vault.json.bak
+vault.json.tmp
+backups/
